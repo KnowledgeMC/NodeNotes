@@ -43,6 +43,7 @@ module.exports = [
     }
   },
   {
+    //Using GET instead of DELETE and add extra /delete path so we can delete just by visiting the URL
     method: 'GET',
     path: '/note/{slug}/delete',
     handler: (request, reply) => {
