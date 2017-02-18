@@ -1,0 +1,24 @@
+{
+  "name": "NodeNotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnowledgeMC/NodeNotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnowledgeMC/NodeNotes/issues"
+  },
+  "homepage": "https://github.com/KnowledgeMC/NodeNotes#readme",
+  "dependencies": {
+    "hapi": "^16.1.0",
+    "hoek": "^4.1.0"
+  }
+}
